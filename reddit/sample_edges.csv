@@ -1,0 +1,9 @@
+source,target,weight
+gaming,pcgaming,5
+gaming,leagueoflegends,3
+leagueoflegends,esports,4
+esports,dota2,2
+pcgaming,hardware,6
+movies,television,7
+movies,netflix,5
+netflix,television,3
